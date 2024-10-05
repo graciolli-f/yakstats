@@ -34,11 +34,52 @@ const yakFacts = [
 	{
 		title: 'Yak Products',
 		fact: 'Yak milk is often used to make butter, cheese, and yogurt. Yak fiber is used to make rope, blankets, and clothing.',
+		button: 'Yak Products',
 	},
 	{
 		title: 'Hybrid Vigor',
 		fact: 'Yaks can be crossbred with cattle to produce offspring known as dzo or yakow, which often exhibit hybrid vigor and are valued for their productivity.',
 	},
+	{
+		title: 'Insulation',
+		fact: 'Yaks have a thick woolly coat that provides excellent insulation in cold climates.',
+	},
+	{
+		title: 'Scientific Name',
+		fact: 'The scientific name for the wild yak is Bos mutus.',
+	},
+	{
+		title: 'Yak Milk Uses',
+		fact: 'Yak milk is often used to make butter, cheese, and a traditional Tibetan salty tea called Po Cha.',
+	},
+	{
+		title: 'Lifespan',
+		fact: 'Yaks can live up to 20 years in the wild and slightly longer in captivity.',
+	},
+	{
+		title: 'Horn Length',
+		fact: 'The horns of a yak can grow up to 95 cm (37 inches) long.',
+	},
+	{
+		title: 'Swimming Ability',
+		fact: 'Yaks are excellent swimmers despite their heavy build.',
+	},
+	{
+		title: 'Dung Usage',
+		fact: 'In Tibet, yak dung is often used as fuel for fires due to the scarcity of wood at high altitudes.',
+	},
+	{
+		title: 'Hemoglobin Content',
+		fact: 'Yaks have three times more hemoglobin than cows, which helps them thrive in high-altitude, low-oxygen environments.',
+	},
+	{
+		title: 'Vocalization',
+		fact: 'The yak\'s grunt sounds more like a pig\'s grunt than a cow\'s moo, which is why they\'re sometimes called \'grunting ox\'.',
+	},
+	{
+		title: 'Wool Properties',
+		fact: 'Yak wool is naturally water-resistant and is used to make tents, ropes, and clothing.',
+	}
 ];
 
 const yakStats = {
